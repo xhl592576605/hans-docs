@@ -1,5 +1,5 @@
 {
-  "name": "xuhuale-docs",
+  "name": "hans-docs",
   "version": "1.0.0",
   "description": "文档整理",
   "main": "index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://xuhuale@192.168.74.53:10080/xuhuale/xuhuale-docs.git"
+    "url": "https://github.com/xhl592576605/hans-docs.git"
   },
   "keywords": [
     "docs"
   ],
-  "author": "xuhuale",
+  "author": "hans",
   "license": "ISC",
   "dependencies": {
     "vuepress": "^2.0.0-beta.20"

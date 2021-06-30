@@ -6,7 +6,7 @@ module.exports = {
     logo: 'https://vuejs.org/images/logo.png',
     sidebar: require("./sidebar"),
   },
-  base :'/xuhuale-docs/',
+  base :'/hans-docs/',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
