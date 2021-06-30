@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: https://vuejs.org/images/logo.png
+heroImage: images/logo.png
 actions:
-  - text: 快速上手
-    link: /vexflow/index.md
+  - text: 开始查阅
+    link: /front-end/vexFlow/index.md
     type: primary
 ---

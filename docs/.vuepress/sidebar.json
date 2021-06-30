@@ -1,9 +1,9 @@
 [
   {
-    "title": "VexFlow",
-    "text": "VexFlow",
+    "title": "前端",
+    "text": "前端",
     "children": [
-      "/vexFlow/index.md"
+      "/front-end/vexFlow/index.md"
     ]
   }
 ]
