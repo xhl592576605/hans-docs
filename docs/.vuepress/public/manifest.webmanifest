@@ -1,0 +1,9 @@
+{
+  "name": "文档记录",
+  "short_name": "文档记录",
+  "description": "文档记录",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}

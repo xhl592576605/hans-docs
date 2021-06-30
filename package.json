@@ -1,0 +1,27 @@
+{
+  "name": "xuhuale-docs",
+  "version": "1.0.0",
+  "description": "文档整理",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://xuhuale@192.168.74.53:10080/xuhuale/xuhuale-docs.git"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "xuhuale",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.20"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.2",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.20",
+    "@vuepress/plugin-search": "^2.0.0-beta.20"
+  }
+}
